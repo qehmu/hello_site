@@ -4,8 +4,11 @@
 }
 h1 {
     font-size: 36px;
-    color:whitesmoke
+    color:whitesmoke;
 }
 a {
     color:wheat;
+}
+h3 {
+    color:purple;
 }
